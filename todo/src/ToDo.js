@@ -4,7 +4,7 @@ const ToDo = props => {
 
     return (
         <>
-            <h1>WUT 2 DU</h1>
+            <nav className="navbar navbar-dark bg-light"><a className="navbar-brand" href="#">WUT 2 DU</a></nav>
         </>
     )
 }
